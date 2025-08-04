@@ -1,5 +1,6 @@
-## Hi there 👋
-
+[](https://komarev.com/ghpvc/?username=bapplesauce)
+<img width="1000" height="1000" alt="3" src="https://files.catbox.moe/4qp2e4.gif" />
+beatlemaniac...
 <!--
 **bapplesauce/bapplesauce** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
